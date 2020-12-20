@@ -1,0 +1,40 @@
+{
+    "content" : [
+        {
+            "name" : "Toyota ETIOS PLATINUM AT 5P",
+            "picture": "/toyota.png",
+            "type": "Usado",
+            "id" : "1"
+        },
+        {
+            "name" : "Nissan VERSA ADV DRIVE AT",
+            "picture": "/nissan1.png",
+            "type": "Usado",
+            "id" : "2"
+        },
+        {
+            "name" : "Nissan KICKS SENSE MN",
+            "picture": "/nissan2.png",
+            "type": "0KM",
+            "id" : "3"
+        },
+        {
+            "name" : "Ford FIESTA KD 4 P S PLUS",
+            "picture": "/ford.png",
+            "type": "Usado",
+            "id" : "4"
+        },
+        {
+            "name" : "Volkswagen GOLF 1.6 TRENDLINE",
+            "picture": "/volks1.png",
+            "type": "Usado",
+            "id" : "5"
+        },
+        {
+            "name" : "Volkswagen COROLLA XEI",
+            "picture": "/volks2.png",
+            "type": "Usado",
+            "id" : "6"
+        }
+    ]
+}
