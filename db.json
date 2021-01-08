@@ -29,6 +29,11 @@
         "picture": "/volks2.png",
         "type": "Usado",
         "id" : "6"
+    },{
+        "name" : "Nissan KICKS SENSE MN",
+        "picture": "/nissan2.png",
+        "type": "0KM",
+        "id" : "3"
     }],
 
     "0KM" : [{
