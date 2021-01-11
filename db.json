@@ -36,14 +36,14 @@
         "id" : "3"
     }],
 
-    "0KM" : [{
+    "new" : [{
         "name" : "Nissan KICKS SENSE MN",
         "picture": "/nissan2.png",
         "type": "0KM",
         "id" : "3"
     }],
 
-    "Usado": [{
+    "used": [{
         "name" : "Toyota ETIOS PLATINUM AT 5P",
         "picture": "/toyota.png",
         "type": "Usado",
